@@ -1,5 +1,5 @@
 # Node Express Server
-![alt text](postman.jpg)
+![alt text](postman.png)
 
 Fetches SpongeBob json data
 

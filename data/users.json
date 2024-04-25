@@ -3,18 +3,21 @@
     "name": "Spongebob Squarepants",
     "password": "password1",
     "profession": "cook at krabby patty",
+    "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSpongeBob_SquarePants_%2528character%2529&psig=AOvVaw38Y9NN5yCI4waLZvnz_evb&ust=1714147613116000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDrm87f3YUDFQAAAAAdAAAAABAE", 
     "id": 1
   },
   "2": {
     "name": "Squidward J. Q. Tentacles",
     "password": "password2",
     "profession": "cashier",
+    "image":"https://static.wikia.nocookie.net/spongebob/images/0/05/Squidward_stock_art.png/revision/latest?cb=20190921125123",
     "id": 2
   },
   "3": {
     "name": "Patrick Start",
     "password": "password3",
     "profession": "unemployed",
+    "image":"https://www.google.com/imgres?q=patrick%20star&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fspongebob%2Fimages%2F1%2F17%2FPatrick_Star_Show_Patrick.png%2Frevision%2Flatest%2Fscale-to-width%2F360%3Fcb%3D20220724110959&imgrefurl=https%3A%2F%2Fspongebob.fandom.com%2Fwiki%2FPatrick_Star&docid=mxtcBExSChSAWM&tbnid=swcFm8w6ZVge_M&vet=12ahUKEwifrfyA4N2FAxVzD1kFHS7CCmMQM3oECGUQAA..i&w=360&h=360&hcb=2&ved=2ahUKEwifrfyA4N2FAxVzD1kFHS7CCmMQM3oECGUQAA",
     "id": 3
   }
 }
