@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "Spongebob Squarepants",
+    "password": "password1",
+    "profession": "cook at krabby patty",
+    "id": 1
+  },
+  "2": {
+    "name": "Squidward J. Q. Tentacles",
+    "password": "password2",
+    "profession": "cashier",
+    "id": 2
+  },
+  "3": {
+    "name": "Patrick Start",
+    "password": "password3",
+    "profession": "unemployed",
+    "id": 3
+  }
+}
